@@ -425,7 +425,7 @@ a, button {
 	transition-duration: .8s;
 }
 .totalcard .card img:hover {
-	transform: scale(3.5);
+	/* transform: scale(3.5); */
 	border-radius: 0;
 	box-shadow: 0 0 20px rgba(0,0,0,0.5);
 }
